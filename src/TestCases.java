@@ -3,6 +3,7 @@ import org.junit.Test;
 
 public class TestCases {
 	@Test
+	public void Test1() {
 		assertEquals("must return 1", 1, Solution.DoIt());
 	}
 
